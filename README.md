@@ -1,1 +1,13 @@
-# Pagina-web-23
+<html>
+<head>
+</head>
+
+<frameset cols=20%,*>
+	<frame src="AE.html" name=AE>
+   <frameset rows=35%,*>
+	<frame src="BE.html" name=BE>
+	<frame src="c.html" name=c>
+</frameset>
+</frameset>
+
+</html>
